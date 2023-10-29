@@ -1,7 +1,7 @@
 """
  Constructs network architecture
  If you use this code, please cite the following paper:
- Shuwei Yue and Minchen Wei. "Effective cross-sensor color constancy using a 1 dual-mapping strategy" in JOSA A 2023.
+ Shuwei Yue and Minchen Wei. "Effective cross-sensor color constancy using a dual-mapping strategy" in JOSA A 2023.
 
 """
 __author__ = "Shuwei Yue"
@@ -17,7 +17,7 @@ class Dmcc(nn.Module):
     def __init__(self, in_features=8, neurons=11, out_features=2,
                  hidden_layer_num=5, l1_weight=0.00001):
         """
-        The DMCC net, i.e., Simple MLP net based on 11 neurons in 5 hidden layers, with 2 linear layer,
+        The DMCC net, i.e., Simple MLP net based on 11 neurons in 5 hidden layers, with 2 linear layers,
          i.e., the first_layer and last_layer
         """
         super(Dmcc, self).__init__()
