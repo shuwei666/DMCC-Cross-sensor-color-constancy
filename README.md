@@ -17,7 +17,7 @@ run `python train.py`
 
 
 #### Testing
-Define the testing sensor and selecting the related pretraind model
+Define the testing sensor and selecting the related pre-trained model
 
 run `python test.py`
 
