@@ -1,5 +1,5 @@
 # Effective cross-sensor color constancy using a dual-mapping strategy
-Shuwei Yue and *[Minchen Wei](https://www.polyucolorlab.com/)
+[Shuwei Yue](https://shuwei666.github.io/) and *[Minchen Wei](https://www.polyucolorlab.com/)
 
 *Color, Imaging, and Metaverse Research Center, The Hong Kong Polytechnic University.*
 
